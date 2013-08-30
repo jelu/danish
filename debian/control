@@ -14,7 +14,7 @@ Description: DANE TLSA record type tool
  properties of certificates. The tool was specifically designed to be integrated
  into an automated DNS zone generation chain. Apart from being able to generate
  TLSA records from X.509 certificates danish is also able to:
- 
+ .
  - Check if a certificate has expired
  - Check if the hostname for which a TLSA record is created matches with the
    certificate
