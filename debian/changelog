@@ -1,8 +1,8 @@
-danish (0.1.0-1~unstable+1) unstable; urgency=low
+danish (0.1.0gitbed7369-1~unstable+1) unstable; urgency=low
 
-  * .
+  * New upstream release 0.1.0 commit bed7369.
 
- -- Jerry Lundström <lundstrom.jerry@gmail.com>  Thu, 29 Jan 2015 15:35:59 +0100
+ -- Jerry Lundström <lundstrom.jerry@gmail.com>  Fri, 30 Jan 2015 07:25:55 +0100
 
 danish (0.1.0-1~unstable+1) unstable; urgency=low
 
