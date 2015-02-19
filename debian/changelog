@@ -1,3 +1,9 @@
+danish (0.1.0gitbed7369-2~unstable+1) unstable; urgency=low
+
+  * Package fixes.
+
+ -- Jerry Lundström <lundstrom.jerry@gmail.com>  Thu, 19 Feb 2015 10:04:24 +0100
+
 danish (0.1.0gitbed7369-1~unstable+1) unstable; urgency=low
 
   * New upstream release 0.1.0 commit bed7369.
